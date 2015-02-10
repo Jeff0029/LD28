@@ -1,0 +1,742 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.4709]
+    Renderer: NVIDIA GeForce GTX 660 Ti
+    Vendor:   NVIDIA
+    VRAM:     3008 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: Q:\Ludum Dare\SoundJumper\Build\SoundJumper_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading Q:\Ludum Dare\SoundJumper\Build\SoundJumper_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: Q:\Ludum Dare\SoundJumper\Build\SoundJumper_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading Q:\Ludum Dare\SoundJumper\Build\SoundJumper_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: Q:\Ludum Dare\SoundJumper\Build\SoundJumper_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading Q:\Ludum Dare\SoundJumper\Build\SoundJumper_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.085 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: Q:\Ludum Dare\SoundJumper\Build\SoundJumper_Data\Managed\System.Core.dll (this message is harmless)
+UnloadTime: 0.505269 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 357.
+Total: 1.184614 ms (FindLiveObjects: 0.020799 ms CreateObjectMapping: 0.007679 ms MarkObjects: 0.088958 ms  DeleteObjects: 0.263354 ms)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+UnloadTime: 0.704624 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 114 unused Assets to reduce memory usage. Loaded Objects now: 208.
+Total: 1.275812 ms (FindLiveObjects: 0.010879 ms CreateObjectMapping: 0.007999 ms MarkObjects: 0.052158 ms  DeleteObjects: 0.848941 ms)
+
+UnloadTime: 0.537588 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 426.
+Total: 0.783982 ms (FindLiveObjects: 0.016639 ms CreateObjectMapping: 0.007679 ms MarkObjects: 0.084478 ms  DeleteObjects: 0.273274 ms)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+UnloadTime: 0.811502 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 132 unused Assets to reduce memory usage. Loaded Objects now: 576.
+Total: 1.045097 ms (FindLiveObjects: 0.019839 ms CreateObjectMapping: 0.021119 ms MarkObjects: 0.085438 ms  DeleteObjects: 0.519028 ms)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+UnloadTime: 0.981738 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 154 unused Assets to reduce memory usage. Loaded Objects now: 209.
+Total: 7.887508 ms (FindLiveObjects: 0.009599 ms CreateObjectMapping: 0.010559 ms MarkObjects: 0.051838 ms  DeleteObjects: 7.447197 ms)
+
+UnloadTime: 0.530228 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 361.
+Total: 0.839661 ms (FindLiveObjects: 0.015039 ms CreateObjectMapping: 0.008639 ms MarkObjects: 0.079358 ms  DeleteObjects: 0.321593 ms)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+UnloadTime: 0.501749 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 173 unused Assets to reduce memory usage. Loaded Objects now: 209.
+Total: 1.419489 ms (FindLiveObjects: 0.010559 ms CreateObjectMapping: 0.017279 ms MarkObjects: 0.054078 ms  DeleteObjects: 0.983018 ms)
+
+UnloadTime: 0.528628 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 358.
+Total: 0.826222 ms (FindLiveObjects: 0.014399 ms CreateObjectMapping: 0.008959 ms MarkObjects: 0.077438 ms  DeleteObjects: 0.336952 ms)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+UnloadTime: 0.557747 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 109 unused Assets to reduce memory usage. Loaded Objects now: 209.
+Total: 1.226213 ms (FindLiveObjects: 0.009599 ms CreateObjectMapping: 0.008639 ms MarkObjects: 0.054078 ms  DeleteObjects: 0.790382 ms)
+
